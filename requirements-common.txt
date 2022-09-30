@@ -9,7 +9,7 @@ requests==2.22.0
 urllib3==1.26.5
 wrapt==1.11.2
 scikit-learn==0.21.3
-joblib==0.13.2
+joblib==1.2.0
 jsonschema==3.0.2
 TA-Lib==0.4.17
 tabulate==0.8.3
