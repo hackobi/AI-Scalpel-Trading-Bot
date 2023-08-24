@@ -5,7 +5,7 @@ SQLAlchemy==1.3.8
 python-telegram-bot==12.0.0
 arrow==0.14.6
 cachetools==3.1.1
-requests==2.22.0
+requests==2.31.0
 urllib3==1.26.5
 wrapt==1.11.2
 scikit-learn==0.21.3
